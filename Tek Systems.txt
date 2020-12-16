@@ -1,0 +1,871 @@
+#ver2
+AA0153 O11G0002 44B0100105
+pictures/DCP00378 speeches/AA0153
+
+
+
+This Knowledge Element is discussed in the manual on page 5-5.
+
+AA0141 O11G0101 44B0100101
+pictures/air_gauges speeches/AA0141
+66 AA0180 "%383.111 g(1)" "%5-5"
+0 -1
+The parking or emergency brake on a heavy vehicle can only be held in position by something that cannot leak away, like:
+*spring pressure.
+air pressure.
+hydraulic pressure.
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-5.
+
+AA0142 O11G0601 44B0100301
+pictures/AA1024 speeches/AA0142
+61 "%383.111 g(6)" "%5-7"
+0 -1
+A straight truck or bus air brake system should not leak at a rate of more than ___________ psi per minute with the engine off and the brakes released.
+1
+3
+*2
+
+
+This question derives from Federal Regulation 383.111 g(6).  This Knowledge Element is discussed in the manual on page 5-7.
+
+AA0143 O11G0401 44B0100201
+pictures/DCP00946 speeches/AA0143
+86 "%383.111 g(4)" "%5-4"
+0 -1
+The driver must be able to see a warning before air pressure in the service air tanks falls below ___________ psi.
+50
+*60
+80
+
+
+This question derives from Federal Regulation 383.111 g(4).  This Knowledge Element is discussed in the manual on page 5-4.
+
+AA0144 O11G0201 44B0100102
+pictures/DCP00969 speeches/AA0144
+88 "%383.111 g(2)" "%5-2"
+0 -1
+If your vehicle has an alcohol evaporator, it is there to:
+rid the wet tank of alcohol that condenses and sits at the bottom.
+eliminate the need for daily tank draining.
+*reduce the risk of ice in air brake valves in cold weather.
+
+
+This question derives from Federal Regulation 383.111 g(2).  This Knowledge Element is discussed in the manual on page 5-2.
+
+AA0145 O11G0001 44B0100401
+pictures/DCP00377 speeches/AA0145
+86 "%Other" "%5-9"
+0 -1
+Air braking takes more time than hydraulic braking because air:
+brakes use different brake drums.
+*takes more time to flow through the lines than hydraulic fluid.
+brakes require heavier return springs.
+
+
+This Knowledge Element is discussed in the manual on page 5-9.
+
+AA0146 O11G0102 44B0100103
+pictures/aa0080 speeches/AA0146
+87 "%383.111 g(1)" "%5-2"
+0 -1
+The brake pedal in an air brake system:
+controls the speed of the air compressor.
+*controls the air pressure applied to put on the brakes.
+is connected to slack adjusters by a series of rods and linkages.
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-2.
+
+AA0147 O11G0103 44B0100501
+pictures/DCP00948 speeches/AA0147
+52 AA0184 "%383.111 g(1)" "%5-5"
+0 -1
+If your truck or bus has dual parking control valves, you can use pressure from a separate tank to:
+*release the spring emergency/parking brakes to move a short distance.
+apply more brake pressure if the main tank is getting low.
+balance the service brake system whenever you are parked.
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-5.
+
+AA0148 O11G0104 44B0100104
+pictures/slack_adjusters speeches/AA0148
+90 "%383.111 g(1)" "%5-1"
+0 -1
+Modern air brake systems combine three different systems.  They are the service, parking, and the ___________ brakes.
+*emergency
+foot
+S-cam
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-1.
+
+AA0149 O11G0501 44B0100302
+pictures/DCP00377 speeches/AA0149
+76 AA0185 "%383.111 g(5)" "%5-6"
+0 -1
+To check the free play of manual slack adjusters on S-cam brakes, you should park on:
+*level ground, chock the wheels, and turn off the parking brakes.
+level ground with the parking brake, then apply the service brake.
+level ground and drain off air pressure before adjusting vehicle movement.
+
+
+This question derives from Federal Regulation 383.111 g(5).  This Knowledge Element is discussed in the manual on page 5-6.
+
+AA0150 O11G0302 44B0100502
+pictures/DCP00946 speeches/AA0150
+95 "%383.111 g(3)" "%5-10"
+0 -1
+Of the choices below, the first thing to do when a low air pressure warning comes on is:
+*stop and safely park as soon as possible.
+adjust the brake pedal for more travel.
+open the air supply control valve.
+
+
+This question derives from Federal Regulation 383.111 g(3).  This Knowledge Element is discussed in the manual on page 5-10.
+
+AA0154 O11G0003 44B0100402
+pictures/DCP01246 speeches/AA0154
+88 AA0190 "%Other" "%5-8"
+0 -1
+If you must make an emergency stop, brake so you:
+can steer hard while braking hard.
+*can steer and your vehicle stays in a straight line.
+use the hand brake first.
+
+
+This Knowledge Element is discussed in the manual on page 5-8.
+
+AA0155 O11G0105 44B0100107
+pictures/DCP00973 speeches/AA0155
+64 "%383.111 g(1)" "%5-4"
+0 -1
+The application pressure gauge shows how much air pressure you:
+have in the air tanks.
+*are applying to the brakes.
+have in the modulating control valve.
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-4.
+
+AA0156 O11G0202 44B0100303
+pictures/air_compressor speeches/AA0156
+92 "%383.111 g(2)" "%5-2"
+0 -1
+If you do not have automatic tank drains, how often should you drain the oil and water from the bottom of compressed air storage air tanks?
+After every four hours of service
+*At the end of each day of driving
+Once a week
+
+
+This question derives from Federal Regulation 383.111 g(2).  This Knowledge Element is discussed in the manual on page 5-2.
+
+AA0157 O11G0602 44B0100503
+pictures/front_brakes_truck speeches/AA0157
+56 "%383.111 g(6)" "%5-4, 5-9"
+0 -1
+You should know that your brakes are fading when:
+*you have to push harder on the brake pedal to control your speed on a downgrade.
+the brake pedal feels spongy when pressure is applied.
+pressure on the brake pedal is released and speed increases.
+
+
+This question derives from Federal Regulation 383.111 g(6).  This Knowledge Element is discussed in the manual on pages 5-4, 5-9.
+
+AA0158 O11G0502 44B0100108
+pictures/DCP00969 speeches/AA0158
+92 AA0170 "%383.111 g(5)" "%5-2"
+0 -1
+If your vehicle has an alcohol evaporator, every day during cold weather you should:
+*check and fill the alcohol level.
+check the oil for alcohol content.
+change the alcohol from a new bottle.
+
+
+This question derives from Federal Regulation 383.111 g(5).  This Knowledge Element is discussed in the manual on page 5-2.
+
+AA0159 O11G0203 44B0100109
+pictures/resevoir speeches/AA0159
+93 AA0171 "%383.111 g(2)" "%5-2"
+0 -1
+Why drain water from compressed air tanks?
+The low boiling point of water reduces braking power
+*Water can freeze in cold weather and cause brake failure
+To keep from fouling the air compressor oil
+
+
+This question derives from Federal Regulation 383.111 g(2).  This Knowledge Element is discussed in the manual on page 5-2.
+
+AA0162 O11G0603 44B0100304
+pictures/DCP01328 speeches/AA0162
+84 "%383.111 g(6)" "%5-6"
+0 -1
+Your vehicle has a dual air brake system.  If a low air pressure warning comes on for the secondary system, you should:
+*bring the vehicle to a safe stop and continue only when the system is fixed.
+reduce your speed, and test the remaining system while under way.
+reduce your speed, and drive to the nearest garage for repairs.
+
+
+This question derives from Federal Regulation 383.111 g(6).  This Knowledge Element is discussed in the manual on page 5-6.
+
+AA0163 O11G0106 44B0100110
+pictures/DCP00288 speeches/AA0163
+68 "%383.111 g(1)" "%5-5"
+0 -1
+During normal driving, spring brakes are usually held back by:
+bolts.
+*air pressure.
+spring pressure.
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-5.
+
+AA0164 O11G0004 44B0100403
+pictures/air_gauges speeches/AA0164
+94 AA0178 AA2024 "%Other" "%5-10, 5-11"
+0 -1
+In Air brakes vehicles, the parking brakes should be used:
+as little as possible.
+*any time the vehicle is parked.
+to hold your speed when going downhill.
+
+
+This Knowledge Element is discussed in the manual on pages 5-10, 5-11.
+
+AA0166 O11G0604 44B0100305
+pictures/DCP01204 speeches/AA0166
+41 "%383.111 g(6)" "%5-7"
+0 -1
+The air loss rate for a straight truck or bus with the engine off and the brakes on should not be more than:
+1 psi in one minute
+2 psi in 45 seconds
+*3 psi in one minute
+
+
+This question derives from Federal Regulation 383.111 g(6).  This Knowledge Element is discussed in the manual on page 5-7.
+
+AA0168 O11G0107 44B0100111
+pictures/DCP01204 speeches/AA0168
+87 AA2007 "%383.111 g(1)" "%5-4"
+0 -1
+The supply pressure gauge shows how much pressure:
+*is in the air tanks.
+you have used in this trip.
+is going to the brake chambers.
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-4.
+
+AA0169 O11G0108 44B0100112
+pictures/DCP00378 speeches/AA0169
+81 "%383.111 g(1)" "%5-1"
+0 -1
+The brake system that applies and releases the brakes when the driver uses the brake pedal is the ___________ brake system.
+emergency
+*service
+parking
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-1.
+
+AA0170 O11G0503 44B0100113
+pictures/DCP00969 speeches/AA0170
+94 AA0158 "%383.111 g(5)" "%5-2"
+0 -1
+If your vehicle has an alcohol evaporator, every day during cold weather you should:
+*check and fill the alcohol level.
+change the alcohol from a new bottle.
+check the oil for alcohol content.
+
+
+This question derives from Federal Regulation 383.111 g(5).  This Knowledge Element is discussed in the manual on page 5-2.
+
+AA0171 O11G0204 44B0100306
+pictures/DCP00375 speeches/AA0171
+96 AA0159 "%383.111 g(2)" "%5-2"
+0 -1
+Why should you drain water from compressed air tanks?
+The boiling point reduces braking power
+*Water can freeze in cold weather and cause brake failure
+Water cools the compressor too much
+
+
+This question derives from Federal Regulation 383.111 g(2).  This Knowledge Element is discussed in the manual on page 5-2.
+
+AA0172 O11G0605 44B0100307
+pictures/air_brake_linkage speeches/AA0172
+80 "%383.111 g(6)" "%5-8"
+0 -1
+To test air service brakes, you should:
+stop the vehicle, put it in low gear, depress the service brake, and then gently pull against the brakes.
+brake firmly when slowly moving backwards.
+*brake firmly when slowly moving forwards.
+
+
+This question derives from Federal Regulation 383.111 g(6).  This Knowledge Element is discussed in the manual on page 5-8.
+
+AA0174 O11G0606 44B0100202
+pictures/DCP00946 speeches/AA0174
+83 "%383.111 g(6)" "%5-6"
+0 -1
+Your truck or bus has a dual air brake system.  If a low air pressure warning comes on for only one system, what should you do?
+Reduce your speed, and drive to the nearest garage for repairs.
+Reduce your speed, and test the remaining system while under way.
+*Stop right away and safely park.  Continue only after the system is fixed.
+
+
+This question derives from Federal Regulation 383.111 g(6).  This Knowledge Element is discussed in the manual on page 5-6.
+
+AA0176 O11G0006 44B0100405
+pictures/DCP01025 speeches/AA0176
+62 "%Other" "%5-9"
+0 -1
+Total stopping distance for air brakes is longer than that for hydraulic brakes due to ___________ distance.
+*brake lag
+reaction
+effective braking
+
+
+This Knowledge Element is discussed in the manual on page 5-9.
+
+AA0177 O11G0109 44B0100114
+pictures/DCP00952 speeches/AA0177
+79 "%383.111 g(1)" "%5-3"
+0 -1
+The most common type of foundation brake found on heavy vehicles is the:
+Wedge drum.
+*S-cam drum.
+Disc brake.
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-3.
+
+AA0178 O11G0007 44B0100406
+pictures/DCP00949 speeches/AA0178
+94 AA0164 AA2024 "%Other" "%5-10"
+0 -1
+With air brake vehicles, the parking brakes should be used:
+*whenever you leave the vehicle unattended.
+as little as possible.
+only during pre- and post-trip inspections.
+
+
+This Knowledge Element is discussed in the manual on page 5-10.
+
+AA0180 O11G0110 44B0100115
+pictures/spring_brakes speeches/AA0180
+63 AA0141 "%383.111 g(1)" "%5-5"
+0 -1
+Parking or emergency brakes of trucks and buses can be legally held on by _____ pressure.
+*spring
+fluid
+air
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-5.
+
+AA0181 O11G0403 44B0100504
+pictures/DCP00946 speeches/AA0181
+80 "%383.111 g(4)" "%5-4"
+0 -1
+The driver must be able to see a low air pressure warning which comes on before pressure in the service air tanks falls below ___________ psi.
+40
+*60
+80
+
+
+This question derives from Federal Regulation 383.111 g(4).  This Knowledge Element is discussed in the manual on page 5-4.
+
+AA0184 O11G0111 44B0100505
+pictures/DCP00948 speeches/AA0184
+54 AA0147 "%383.111 g(6)" "%5-5"
+0 -1
+If your truck or bus has dual parking control valves, you can use pressure from a separate tank to:
+balance the service brake system when you are parked.
+stay parked twice as long without using up service air pressure.
+*release the spring emergency/parking brakes to move a short distance.
+
+
+This question derives from Federal Regulation 383.111 g(6).  This Knowledge Element is discussed in the manual on page 5-5.
+
+AA0185 O11G0504 44B0100308
+pictures/DCP00383 speeches/AA0185
+70 AA0149 "%383.111 g(5)" "%5-6"
+0 -1
+To check the free play of manual slack adjusters of S-cam brakes, you should park on:
+level ground and apply the parking brakes.
+*level ground, chock the wheels, and release the parking brakes.
+a slight grade, release the parking brakes, and apply the service brakes, watching for vehicle movement.
+
+
+This question derives from Federal Regulation 383.111 g(5).  This Knowledge Element is discussed in the manual on page 5-6.
+
+AA0186 O11G0303 44B0100506
+pictures/DCP00946 speeches/AA0186
+92 "%383.111 g(3)" "%5-10"
+0 -1
+The most important thing to do when a low air pressure warning comes on is:
+upshift.
+downshift.
+*stop and safely park as soon as possible.
+
+
+This question derives from Federal Regulation 383.111 g(3).  This Knowledge Element is discussed in the manual on page 5-10.
+
+AA0187 O11G0112 44B0100116
+pictures/DCP00964 speeches/AA0187
+80 "%383.111 g(1)" "%5-1"
+0 -1
+The air compressor governor controls:
+*when air is pumped into the air tanks.
+the speed of the air compressor.
+air pressure applied to the brakes.
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-1.
+
+AA0188 O11G0008 44B0100117
+pictures/DCP00377 speeches/AA0188
+67 AA0152 AA0153 "%Other" "%5-5"
+0 -1
+The braking power of the spring brakes:
+*depends on the service brakes being in adjustment.
+is not affected by the condition of the service brakes.
+can only be tested by highly-trained brake service people.
+
+
+This Knowledge Element is discussed in the manual on page 5-5.
+
+AA0189 O11G0113 44B0100118
+pictures/DCP00241 speeches/AA0189
+86 "%383.111 g(1)" "%5-4"
+0 -1
+All air brake equipped vehicles have:
+*a supply pressure gauge.
+an air use gauge.
+a backup hydraulic system.
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-4.
+
+AA0190 O11G0009 44B0100407
+pictures/DCP01246 speeches/AA0190
+88 AA0154 "%Other" "%5-8"
+0 -1
+If you must make an emergency stop, you should brake so you:
+use the hand brake before the brake pedal.
+*can steer and so your vehicle stays in a straight line.
+use the full power of the brakes to lock them.
+
+
+This Knowledge Element is discussed in the manual on page 5-8.
+
+AA2001 O11G0205 44B0100119
+pictures/DCP00969 speeches/AA2001
+88 "%383.111 g(2)" "%5-2"
+0 -1
+Some air brake systems have an alcohol evaporator.  What may happen if you don't keep the unit filled with alcohol?
+The S-cam may not rotate back when you release the brake pedal.
+*Ice may form in the air storage tanks and cause the brakes to fail.
+Ice may form on the brake drums and warp them.
+
+
+This question derives from Federal Regulation 383.111 g(2).  This Knowledge Element is discussed in the manual on page 5-2.
+
+AA2002 O11G0607 44B0100120
+pictures/DCP01329 speeches/AA2002
+66 "%383.111 g(1)" "%5-2"
+0 -1
+The safety valve is set to automatically reduce pressure at ___________ psi.
+50
+100
+*150
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-2.
+
+AA2003 O11G0405 44B0100507
+pictures/DCP01165 speeches/AA2003
+82 "%383.111 g(4)" "%5-2"
+0 -1
+Repeatedly pressing and releasing (fanning) the brake pedal may result in:
+*a loss of brake air pressure.
+a build up of brake air pressure.
+no change in brake air pressure.
+
+
+This question derives from Federal Regulation 383.111 g(4).  This Knowledge Element is discussed in the manual on page 5-2.
+
+AA2005 O11G0114 44B0100121
+pictures/DCP01325 speeches/AA2005
+62 "%383.111 g(1)" "%5-3"
+0 -1
+The S-cam:
+controls the flow of air into each of the brake chambers.
+pulls the brake shoes away from the drum and allows the wheels to roll freely.
+*forces the brake shoes against the inside of the brake drum.
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-3.
+
+AA2006 O11G0406 44B0100508
+pictures/DCP00378 speeches/AA2006
+37 "%383.111 g(4)" "%5-5"
+0 -1
+The spring brakes used on tractors and straight trucks will bring your truck to a stop when the air pressure drops below ___________ psi.
+*20
+60
+100
+
+
+This question derives from Federal Regulation 383.111 g(4).  This Knowledge Element is discussed in the manual on page 5-5.
+
+AA2007 O11G0115 44B0100122
+pictures/DCP00087 speeches/AA2007
+96 AA0168 "%383.111 g(1)" "%5-4"
+0 -1
+A supply pressure gauge tells you how much air is in the:
+*air tanks.
+tractor brake lines.
+trailer brake lines.
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-4.
+
+AA2008 O11G0408 44B0100123
+pictures/DCP01165 speeches/AA2008
+80 "%383.111 g(4)" "%5-5"
+0 -1
+If the spring brakes are on, when should you push the brake pedal?
+Only when driving down a hill
+Only on slippery road
+*Never
+
+
+This question derives from Federal Regulation 383.111 g(4).  This Knowledge Element is discussed in the manual on page 5-5.
+
+AA2009 O11G0116 44B0100124
+pictures/DCP01333 speeches/AA2009
+64 "%383.111 g(1)" "%5-4"
+0 -1
+The stop light switch:
+*turns on the brake lights to warn drivers behind you.
+tells you when you need to use your emergency brakes.
+tells you when the Air brakes system is low on air pressure.
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-4.
+
+AA2011 O11G0409 44B0100408
+pictures/DCP00951 speeches/AA2011
+27 "%383.111 g(4)" "%5-5"
+0 -1
+Under normal conditions, in order to engage the parking brakes the driver must first:
+turn off the engine.
+*let the air out of the air brake system.
+be sure that the air brake system is fully pressurized.
+
+
+This question derives from Federal Regulation 383.111 g(4).  This Knowledge Element is discussed in the manual on page 5-5.
+
+AA2012 O11G0608 44B0100125
+pictures/DCP00967 speeches/AA2012
+71 "%383.111 g(6)" "%5-8"
+0 -1
+For air brake systems in good condition, the air compressor should start pumping at about ___________ psi.
+*100
+125
+150
+
+
+This question derives from Federal Regulation 383.111 g(6).  This Knowledge Element is discussed in the manual on page 5-8.
+
+AA2013 O11G0505 44B0100203
+pictures/DCP00973 speeches/AA2013
+44 "%383.111 g(5)" "%5-6"
+0 -1
+Before driving a truck or bus with a dual air brake system, the pressure in each system should be at least ___________ psi.
+80
+*100
+120
+
+
+This question derives from Federal Regulation 383.111 g(5).  This Knowledge Element is discussed in the manual on page 5-6.
+
+AA2014 O11G0407 44B0100204
+pictures/DCP00087 speeches/AA2014
+68 "%383.111 g(4)" "%5-6"
+0 -1
+If your truck has a dual air system and one of the systems is low on pressure:
+the brake drums will not be fully pressurized.
+*either the front or rear brakes will not be fully operational.
+the manual slack adjusters on the S-Cam brakes are not set properly.
+
+
+This question derives from Federal Regulation 383.111 g(4).  This Knowledge Element is discussed in the manual on page 5-6.
+
+AA2015 O11G0609 44B0100309
+pictures/DCP00380 speeches/AA2015
+51 "%383.111 g(6)" "%5-6"
+0 -1
+A slack adjuster probably needs to be adjusted if it moves more than about ___________ inch when you pull hard on it.
+1/4
+1/2
+*1
+
+
+This question derives from Federal Regulation 383.111 g(6).  This Knowledge Element is discussed in the manual on page 5-6.
+
+AA2016 O11G0010 44B0100409
+pictures/DCP01234 speeches/AA2016
+43 "%Other" "%5-9"
+0 -1
+Under ideal conditions, a truck with air brakes going 55 miles per hour would require a stopping distance of:
+less than 100 feet.
+100-300 feet.
+*more than 300 feet.
+
+
+This Knowledge Element is discussed in the manual on page 5-9.
+
+AA2017 O11G0011 44B0100410
+pictures/DCP00951 speeches/AA2017
+84 "%Other" "%5-10"
+0 -1
+Which of these is NOT a proper time to apply the parking brakes?
+*If the brakes are very hot (e.g., after just coming down a steep grade)
+If you will only be stopped for less than one hour
+If you are going to test the parking brake to make sure that it holds the vehicle
+
+
+This Knowledge Element is discussed in the manual on page 5-10.
+
+AA2018 O11G0610 44B0100310
+pictures/DCP00960 speeches/AA2018
+25 "%383.111 g(6)" "%5-7"
+0 -1
+It is not safe to drive a vehicle that has brake drums (or discs) with cracks that are longer than ___________ the width of the friction area.
+1/8
+1/4
+*1/2
+
+
+This question derives from Federal Regulation 383.111 g(6).  This Knowledge Element is discussed in the manual on page 5-7.
+
+AA2019 O11G0506 44B0100205
+pictures/DCP01271 speeches/AA2019
+35 "%383.111 g(5)" "%5-7"
+0 -1
+If your truck has a properly functioning dual air brake system and minimum size air tanks, the air pressure should build from 85 to 100 psi within ___________ seconds.
+30
+*45
+60
+
+
+This question derives from Federal Regulation 383.111 g(5).  This Knowledge Element is discussed in the manual on page 5-7.
+
+AA2020 O11G0012 44B0100411
+pictures/DCP01165 speeches/AA2020
+56 "%Other" "%5-9"
+0 -1
+Emergency controlled braking is when you:
+*apply the brakes as hard as you can without locking the wheels.
+brake as hard as you can, release the brakes when the wheels lock, and put the brakes back on again when the wheels start rolling.
+apply the hand valve for one second, then push hard on the brake pedal.
+
+
+This Knowledge Element is discussed in the manual on page 5-9.
+
+AA2021 O11G0117 44B0100509
+pictures/DCP01242 speeches/AA2021
+27 "%383.111 g(1)" "%5-5"
+0 -1
+The modulating control valve allows you to control the:
+*spring brakes.
+front brakes.
+amount of air pressure in the brake system.
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-5.
+
+AA2022 O11G0507 44B0100311
+pictures/DCP00973 speeches/AA2022
+55 "%383.111 g(5)" "%5-7"
+0 -1
+How should you check that the spring brakes come on when air pressure in the system drops below a certain level?
+Park on a slight incline, drain off air pressure, set parking brakes and check for movement.
+*Park on level ground, chock the wheels, release the parking brake when you have enough air pressure, shut the engine off, and repeatedly press and release the brake pedal.
+Park on level ground, wait for normal air pressure, release the parking brake, move the truck forward slowly and apply the brakes firmly using the brake pedal.
+
+
+This question derives from Federal Regulation 383.111 g(5).  This Knowledge Element is discussed in the manual on page 5-7.
+
+AA2023 O11G0013 44B0100412
+pictures/DCP01025 speeches/AA2023
+46 "%Other" "%5-9"
+0 -1
+The air brake lag distance at 55 miles per hour on dry pavement adds about ___________ feet to your stopping distance.
+12
+*32
+52
+
+
+This Knowledge Element is discussed in the manual on page 5-9.
+
+AA2024 O11G0014 44B0100413
+pictures/DCP01180 speeches/AA2024
+93 AA0164 AA0178 "%Other" "%5-11"
+0 -1
+When is it OK to leave your truck unattended without applying the parking brake or chocking the wheels?
+*Never
+If you will only be away from the truck for a few minutes
+If you are conducting a pre-trip inspection
+
+
+This Knowledge Element is discussed in the manual on page 5-11.
+
+AA2025 O11G0015 44B0100414
+pictures/DCP01019 speeches/AA2025
+75 "%Other" "%5-10"
+0 -1
+The use of air brakes on a long and/or steep downgrade under normal conditions is only a supplement to:
+the use of the spring brakes.
+the use of the front brake limiting valve.
+*the braking effect of the engine.
+
+
+This Knowledge Element is discussed in the manual on page 5-10.
+
+AA2026 O11G0508 44B0100126
+pictures/DCP00937 speeches/AA2026
+75 "%383.111 g(5)" "%5-7"
+0 -1
+An air brake system is fully charged at ___________ psi.
+75
+100
+*125
+
+
+This question derives from Federal Regulation 383.111 g(5).  This Knowledge Element is discussed in the manual on page 5-7.
+
+AA2027 O11G0118 44B0100127
+pictures/DCP01321 speeches/AA2027
+87 "%383.111 g(1)" "%5-3"
+0 -1
+When the brakes are applied the brake shoes (or linings) are pressed against the:
+*brake drum or disc.
+slack adjuster.
+S-cam.
+
+
+This question derives from Federal Regulation 383.111 g(1).  This Knowledge Element is discussed in the manual on page 5-3.
+
+AA2008 O11G0408 44B0100123
+pictures/DCP01165 speeches/AA2008
+80 "%383.111 g(4)" "%5-5"
+0 -1
+If the spring brakes are on, when should you push the brake pedal?
+Only when driving down a hill
+Only on slippery road
+*Never
+
+
+This question derives from Federal Regulation 383.111 g(4).  This Knowledge Element is discussed in the manual on page 5-5.
+
+AA2028 O11G0509 44B0100312
+pictures/air_brake_linkage speeches/AA2028
+84 "%383.111 g(5)" "%5-8"
+0 -1
+How should you check that your service brakes are working properly?
+Park on a slight incline, drain off air pressure, set parking brakes and check for movement.
+Park on level ground, chock the wheels, engage the parking brake when you have the correct amount of air pressure to do so, and shut the engine off.
+*Park on level ground, wait for normal air pressure, release the parking brake, move the truck forward slowly (about 5 mph) and apply the brakes firmly using the brake pedal.
+
+
+This question derives from Federal Regulation 383.111 g(5).  This Knowledge Element is discussed in the manual on page 5-8.
+
+AA2029 O11G0016 44B0100510
+pictures/Pic10 speeches/AA2029
+95 "%Other" "%5-9"
+0 -1
+Excessive heat caused by using your brakes too often can cause the:
+modulating control valve to wear out.
+brake lines to plug.
+*brakes to fade or fail.
+
+
+This Knowledge Element is discussed in the manual on page 5-9.
+
+AA2030 O11G0017 44B0100415
+pictures/DCP01019 speeches/AA2030
+57 AA2033 "%Other" "%5-10"
+0 -1
+The proper method of braking when going down long and/or steep grades after selecting the proper gear is to brake until your speed is about ___________ miles per hour below your "safe" speed, then release your brakes.
+*5
+10
+15
+
+
+This Knowledge Element is discussed in the manual on page 5-10.
+
+AA2031 O11G0301 44B0100313
+pictures/DCP00937 speeches/AA2031
+82 "%383.111 g(3)" "%5-7"
+0 -1
+If air pressure does NOT build up to normal within the correct amount of time, then:
+you should be ready to use your parking brake to help stop.
+the alcohol container may be low.
+*your air pressure may drop too low during driving, requiring an emergency stop.
+
+
+This question derives from Federal Regulation 383.111 g(3).  This Knowledge Element is discussed in the manual on page 5-7.
+
+AA2032 O11G0611 44B0100416
+pictures/DCP00288 speeches/AA2032
+46 "%383.111 g(6)" "%5-9"
+0 -1
+Excessive use of the service brakes results in overheating, which can lead to:
+improper adjustment of the S-cam.
+increased contact between the brake drums and brake linings.
+*expansion of the brake drums.
+
+
+This question derives from Federal Regulation 383.111 g(6).  This Knowledge Element is discussed in the manual on page 5-9.
+
+AA2033 O11G0018 44B0100417
+pictures/DCP01013 speeches/AA2033
+60 AA2030 "%Other" "%5-10"
+0 -1
+If you are driving down a steep downgrade and you have reached your "safe" speed of 40 miles per hour, you would apply the service brakes until your speed drops to ___________ miles per hour.
+25
+30
+*35
+
+
+This Knowledge Element is discussed in the manual on page 5-10.
+
+AA2034 O11G0612 44B0100128
+pictures/DCP00967 speeches/AA2034
+63 "%383.111 g(6)" "%5-8"
+0 -1
+The air compressor should stop pumping at about ___________ psi.
+100
+*125
+150
+
+
+This question derives from Federal Regulation 383.111 g(6).  This Knowledge Element is discussed in the manual on page 5-8.
+
+AA2035 O11G0510 44B0100314
+pictures/DCP00967 speeches/AA2035
+91 "%383.111 g(5)" "%5-1"
+0 -1
+If your truck's air compressor has its own oil supply, when should you first check the oil level?
+*Before driving
+During your first en route inspection
+Immediately after stopping
+
+
+This question derives from Federal Regulation 383.111 g(5).  This Knowledge Element is discussed in the manual on page 5-1.
